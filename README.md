@@ -1,7 +1,6 @@
 - 👋 Hi, I go by the name Dexer
-- 👀 I’m interested in tech, art & vaporwave music
-- 🌱 I’m currently learning music production while re-learning to code 
-- 💞️ I’m looking to collaborate on some projects in the future
+- 👀 I’m interested in IT & music
+- 🌱 I’m currently re-learning to code and dabbling making bots for discord.
 - 📫 you can reach me at Twitter with my handle being the same as here @DexerTSR 
 
 <!---
