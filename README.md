@@ -1,5 +1,5 @@
 # 💫 About Me:
-A simple nobody who has a past not many understand. But found coding as a refuge for learning.
+A nobody who has a past not many understand.
 
 
 ## 🌐 Socials:
