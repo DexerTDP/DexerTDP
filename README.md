@@ -1,5 +1,5 @@
 # 💫 About Me:
-The only difference between me and them is I know I’m the virus.
+The only difference between me and them is I know I’m the virus, the silent exploit. 
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DexerTDP) 
