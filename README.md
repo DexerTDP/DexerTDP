@@ -1,5 +1,5 @@
 # 💫 About Me:
-A nobody who has a past not many understand.
+The only difference between me and them is I know I’m the virus.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DexerTDP) 
