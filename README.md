@@ -1,3 +1,4 @@
+```
 ┌──────────────────────────────────────────────────────────────┐
 │  DEXER :: TERMINAL INTERFACE                                 │
 │  HANDLE: DexerTDP                                            │
@@ -45,3 +46,4 @@ For lawful OSINT research, analysis, and educational use only.
 
 > status
 SYSTEM OPERATIONAL
+```
