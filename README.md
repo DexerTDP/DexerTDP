@@ -37,7 +37,7 @@ Deployment    :: Github Pages
 - OSINT Reports
 
 > access
-GitHub :: https://github.com/DexerTDP
+Main Website :: https://dexertdp.net
 
 > notice
 For lawful OSINT research, analysis, and educational use only.
