@@ -1,11 +1,67 @@
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DexerTDP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DexerTDP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexerTDP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+````markdown
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=DEXER+%7C+DEXERTDP;OSINT+%2F+SOCIAL+MEDIA+INVESTIGATOR;CLIENT-SIDE+INTELLIGENCE+SYSTEMS;SIGNAL+OVER+NOISE" />
+</p>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  DEXER :: TERMINAL INTERFACE                                 │
+│  HANDLE: DexerTDP                                            │
+└──────────────────────────────────────────────────────────────┘
+
+> boot_sequence --init
+[✓] Identity ...................... Dexer データプレデター
+[✓] Handle ........................ DexerTDP
+[✓] OSINT modules ................ loaded
+[✓] Research Briefings ........ active
+[✓] Digital Presence ...... ready
+
+> whoami
+Discord Bot Developer / Writer and a overall pain in the ass.
+
+> specialization
+- Open-Source Intelligence
+- Social Media Analysis & Pattern Recognition
+- Automation / Data Analysis Interfaces
+
+> stack --enumerate
+Frontend      :: HTML / CSS / JavaScript / Markdown / Python / C#
+Frameworks    :: Next.js
+Deployment    :: Github Pages
+
+> active_projects
+- Dextree (Personal Linktree Website)
+- Articles
+- OSI: Orgin (Pending)
+
+> doctrine
+- Signal over noise
+- Function > aesthetics
+- Systems built for real-world use
+
+> current_focus
+- Coding custom Discord Automation Bots
+- OSINT Reports
+
+> access
+GitHub :: https://github.com/DexerTDP
+
+> notice
+For lawful OSINT research, analysis, and educational use only.
+
+> status
+SYSTEM OPERATIONAL
+````
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-OSINT-black?style=for-the-badge&logo=verizon&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROLE-INVESTIGATOR-black?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DexerTDP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer&text=Signal%20over%20noise.&fontColor=ffffff&fontSize=24&animation=fadeIn" />
+</p>
+```
