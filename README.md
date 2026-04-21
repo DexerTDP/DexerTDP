@@ -30,9 +30,7 @@ Deployment    :: Github Pages
 - OSI: Orgin (Pending)
 
 > doctrine
-- Signal over noise
-- Function > aesthetics
-- Systems built for real-world use
+- I see what others ignore
 
 > current_focus
 - Coding custom Discord Automation Bots
@@ -45,5 +43,5 @@ GitHub :: https://github.com/DexerTDP
 For lawful OSINT research, analysis, and educational use only.
 
 > status
-SYSTEM OPERATIONAL
+Retired but currently in Idle observation.
 ```
